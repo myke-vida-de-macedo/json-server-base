@@ -1,14 +1,136 @@
 {
   "users": [
     {
-      "email": "teste@gmail.com",
-      "password": "$2a$10$yigWn4er5EEaS0xjBXiCNuV7lbHqTm0KXuihawAnaimpzXuryZP/W",
-      "nome": "Grupo",
-      "sobrenome": "Teste",
-      "id": 1,
+      "email": "mykemacedo@gmail.com",
+      "password": "$2a$10$DhZw3OszJpGOviflDo3Lie6MQY.oUZkWaZqbi8NsL1ptxPFkpwBF2",
+      "name": "Myke",
+      "lastname": "Macedo",
       "imageLogo": "https://i.pinimg.com/originals/7b/80/b3/7b80b3276866f2258b570aa6c07e54ca.jpg",
-      "auth": "Vendedor"
+      "auth": "Vendedor",
+      "profileImage": "https://img.ibxk.com.br/2019/02/17/17124052466014.jpg",
+      "id": 1
+    },
+    {
+      "email": "mykemacedo1@gmail.com",
+      "password": "$2a$10$Gan3.8/x.wXsI27qjsZbqe9Q.ICqx5PI5FCxyZb0CWXH4uBLzhpue",
+      "name": "Myke",
+      "lastname": "Macedo",
+      "auth": "Cliente",
+      "profileImage": "https://img.ibxk.com.br/2019/02/17/17124052466014.jpg",
+      "id": 2
     }
   ],
-  "product": []
+  "product": [
+    {
+      "userId": 1,
+      "brand": "Sansung",
+      "model": "Crystal",
+      "lastPrice": 3000,
+      "currentPrice": 2500,
+      "color": "preto",
+      "description": "Samsung Smart TV 43' polegadas Crystal UHD 4K 43BU8000 2022, Painel Dynamic Crystal Color, Design slim, Gaming Hub, Alexa built in, Controle Remoto Único Solarcell",
+      "quantity": 2,
+      "warranty": "2 anos",
+      "promotion": true,
+      "category": "Eletronico",
+      "images": [
+        "https://samsungbr.vtexassets.com/arquivos/ids/326514-1200-auto?width=1200&height=auto&aspect=true",
+        "https://shop.samsung.com.br/samsung-smart-tv-crystal-uhd-4k-bu8000-2022-1964/p?skuId=2756",
+        "https://samsungbr.vtexassets.com/arquivos/ids/326510-1200-auto?width=1200&height=auto&aspect=true"
+      ],
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "brand": "Microsoft",
+      "model": "Xbox Series S",
+      "lastPrice": 2000,
+      "currentPrice": 1900,
+      "color": "Branco",
+      "description": "Xbox series S - 500 gb, hdmi-in/out, portas usb, wi-fi Console com formato compacto e totalmente digitalXbox Series s, nosso Xbox menor e mais elegante de todos os tempos.com taxas de quadros mais altas, tempos de carregamento mais ...",
+      "quantity": 6,
+      "warranty": "2 anos",
+      "promotion": true,
+      "category": "Eletronico",
+      "images": [
+        "https://images-americanas.b2w.io/produtos/5582786508/imagens/xbox-series-s-500-gb-hdmi-in-out-portas-usb-wi-fi/5582786516_1_xlarge.jpg",
+        "https://images-americanas.b2w.io/produtos/5582786508/imagens/xbox-series-s-500-gb-hdmi-in-out-portas-usb-wi-fi/5582786516_5_xlarge.jpg"
+      ],
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "brand": "Apple",
+      "model": "MGJE3BR/A",
+      "lastPrice": 0,
+      "currentPrice": 5000,
+      "color": "Azul fosco",
+      "description": "Iphone 12, sistema IOS 14, capacidade de 128 GB de armazenamento, tela 6.1 polegadas",
+      "quantity": 15,
+      "warranty": "3 anos",
+      "promotion": false,
+      "category": "Eletronico",
+      "images": [
+        "https://m.media-amazon.com/images/I/51misXwIxAL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/517KnCgrCBL._AC_SX679_.jpg",
+        "https://m.media-amazon.com/images/I/51VIwaog9uL._AC_SX679_.jpg"
+      ],
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "brand": "Alienware",
+      "model": "X17 R2",
+      "lastPrice": 0,
+      "currentPrice": 38000,
+      "color": "Branco",
+      "description": "Notebook gamer com i9-12900HK, RTX 3080 TI 16GB, 32 GB de memoria",
+      "quantity": 30,
+      "warranty": "3 anos",
+      "promotion": false,
+      "category": "Eletronico",
+      "images": [
+        "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/alienware-notebooks/alienware-x17-r2/media-gallery/laptop-alienware-x17-r2-nonlit-touchpad-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&wid=5000&hei=5000&qlt=100,0&resMode=sharp2&size=5000,5000",
+        "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/alienware-notebooks/alienware-x17-r2/media-gallery/laptop-alienware-x17-r2-nonlit-touchpad-gallery-8.psd?fmt=png-alpha&pscan=auto&scl=1&wid=5000&hei=5000&qlt=100,0&resMode=sharp2&size=5000,5000",
+        "https://www.dell.com/pt-br/shop/notebooks/notebook-gamer-alienware-x17-r2/spd/alienware-x17-r2-laptop/ax17r230w?gacd=9688255-15006-5761040-275357028-0&dgc=ST&cid=71700000096271648&gclid=CjwKCAjwvNaYBhA3EiwACgndgiySSKtc1zMaRo2bHV_Cn8GyaA0atJ3H5uvUVs3zdunuY820jCLzZBoCYxEQAvD_BwE&gclsrc=aw.ds&nclid=X2XB7p-SRBVInKZAR3PGeqVQv-AL7Srv0psv1Q40K9RqG6ekEfk2bLMdxQ6-R1Bb",
+        "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/alienware-notebooks/alienware-x17-r2/media-gallery/laptop-alienware-x17-r2-nonlit-touchpad-gallery-2.psd?fmt=png-alpha&pscan=auto&scl=1&wid=5000&hei=5000&qlt=100,0&resMode=sharp2&size=5000,5000"
+      ],
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "brand": "Tramontina",
+      "model": "Nenhum",
+      "lastPrice": 200,
+      "currentPrice": 190,
+      "color": "Laranja",
+      "description": "Aparador De Grama Elétrico Tramontina Ap1000t Com Diâmetro De Corte De 280 Mm 1000 W 220 V 1000w",
+      "quantity": 5,
+      "warranty": "1 anos",
+      "promotion": true,
+      "category": "Ferramentas",
+      "images": [
+        "https://m.media-amazon.com/images/I/411FVhEaKgL._AC_SX522_.jpg"
+      ],
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "brand": "Três Corações",
+      "model": "Mondo",
+      "lastPrice": 900,
+      "currentPrice": 500,
+      "color": "cinza e preto",
+      "description": "Cafeteira de espressos e multibebidas automática do grupo 3 corações que prepara cafés espresso, cafés filtrados, cappuccinos, chás e diversas bebidas cremosas; com design e tecnologia italianos, a modo é uma cafeteira elegante, simples e eficiente",
+      "quantity": 7,
+      "warranty": "2 anos",
+      "promotion": true,
+      "category": "Maquina Domestica",
+      "images": [
+        "https://m.media-amazon.com/images/I/51GteTdLsfL._AC_SL1200_.jpg",
+        "https://m.media-amazon.com/images/I/616uDKVQO7L._AC_SL1200_.jpg"
+      ],
+      "id": 6
+    }
+  ]
 }
