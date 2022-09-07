@@ -32,7 +32,7 @@
       "quantity": 2,
       "warranty": "2 anos",
       "promotion": true,
-      "category": "Eletronico",
+      "category": "Tecnologia",
       "images": [
         "https://samsungbr.vtexassets.com/arquivos/ids/326514-1200-auto?width=1200&height=auto&aspect=true",
         "https://shop.samsung.com.br/samsung-smart-tv-crystal-uhd-4k-bu8000-2022-1964/p?skuId=2756",
@@ -51,7 +51,7 @@
       "quantity": 6,
       "warranty": "2 anos",
       "promotion": true,
-      "category": "Eletronico",
+      "category": "Tecnologia",
       "images": [
         "https://images-americanas.b2w.io/produtos/5582786508/imagens/xbox-series-s-500-gb-hdmi-in-out-portas-usb-wi-fi/5582786516_1_xlarge.jpg",
         "https://images-americanas.b2w.io/produtos/5582786508/imagens/xbox-series-s-500-gb-hdmi-in-out-portas-usb-wi-fi/5582786516_5_xlarge.jpg"
@@ -69,7 +69,7 @@
       "quantity": 15,
       "warranty": "3 anos",
       "promotion": false,
-      "category": "Eletronico",
+      "category": "Tecnologia",
       "images": [
         "https://m.media-amazon.com/images/I/51misXwIxAL._AC_SX679_.jpg",
         "https://m.media-amazon.com/images/I/517KnCgrCBL._AC_SX679_.jpg",
@@ -88,7 +88,7 @@
       "quantity": 30,
       "warranty": "3 anos",
       "promotion": false,
-      "category": "Eletronico",
+      "category": "Tecnologia",
       "images": [
         "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/alienware-notebooks/alienware-x17-r2/media-gallery/laptop-alienware-x17-r2-nonlit-touchpad-gallery-3.psd?fmt=png-alpha&pscan=auto&scl=1&wid=5000&hei=5000&qlt=100,0&resMode=sharp2&size=5000,5000",
         "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/alienware-notebooks/alienware-x17-r2/media-gallery/laptop-alienware-x17-r2-nonlit-touchpad-gallery-8.psd?fmt=png-alpha&pscan=auto&scl=1&wid=5000&hei=5000&qlt=100,0&resMode=sharp2&size=5000,5000",
@@ -103,7 +103,7 @@
       "currentPrice": 759,
       "color": "Rosa",
       "description": "Mouse Gamer Sem Fio Logitech G PRO X Superlight Lightspeed, 25.600 DPI, 5 Botões Programáveis, Sensor HERO 25K",
-      "category": "Eletronico",
+      "category": "Tecnologia",
       "quantity": "43",
       "warranty": "2 Anos",
       "promotion": true,
@@ -123,7 +123,7 @@
       "currentPrice": 4499,
       "color": "Branco",
       "description": "Desfrute do carregamento do seu PS5, extremamente rápido com o SSD de altíssima velocidade, uma imersão mais profunda com suporte a feedback tátil, gatilhos adaptáveis e áudio 3D, além de uma geração inédita de jogos incríveis para PlayStation.",
-      "category": "Eletronico",
+      "category": "Tecnologia",
       "quantity": "11",
       "warranty": "1 Ano",
       "promotion": true,
@@ -142,7 +142,7 @@
       "currentPrice": 1596,
       "color": "Preto e Amarelo",
       "description": "Mouse Gamer Sem Fio Razer Viper Ultimate Cyberpunk 2077 Edition, 20.000 DPI, Chroma, 8 Botões, com Dock, Preto e Amarelo",
-      "category": "Eletronico",
+      "category": "Tecnologia",
       "quantity": "7",
       "warranty": "6 Meses",
       "promotion": true,
@@ -163,7 +163,7 @@
       "currentPrice": 3999,
       "color": "Grafite",
       "description": "Processador AMD Ryzen 9 5950X, 3.4GHz (4.9GHz Max Turbo), Cache 72MB, 16 Núcleos, 32 Threads, AM4",
-      "category": "Eletronico",
+      "category": "Tecnologia",
       "quantity": "26",
       "warranty": "2 Anos",
       "promotion": true,
@@ -181,7 +181,7 @@
       "currentPrice": 5599,
       "color": "Preto",
       "description": "Placa de Vídeo Zotac Gaming NVIDIA GeForce RTX 3080 Trinity, 12GB GDDR6X, LHR, RGB, DLSS, Ray Tracing",
-      "category": "Eletronico",
+      "category": "Tecnologia",
       "quantity": "78",
       "warranty": "3 Anos",
       "promotion": true,
@@ -202,7 +202,7 @@
       "currentPrice": 544,
       "color": "Theory",
       "description": "Epomaker th80 75%, switch Gateron Pro Yellow removível, rgb 2.4ghz/bluetooth 5.0/wired",
-      "category": "Eletronico",
+      "category": "Tecnologia",
       "quantity": "5",
       "warranty": "6 Meses",
       "promotion": true,
@@ -220,7 +220,7 @@
       "currentPrice": 5999,
       "color": "Preto",
       "description": "Cadeira Gamer Asus ROG Chariot, Aura RGB, Braço 4D, Preto Cadeira para jogos ROG Chariot RGB no estilo de carro de corrida com suporte lombar de espuma de memória, apoios de braço 4D, mecanismo de inclinação e elevador a gás durável classe 4. ",
-      "category": "Eletronico",
+      "category": "Tecnologia",
       "quantity": "69",
       "warranty": "2 Anos",
       "promotion": true,
@@ -237,5 +237,6 @@
       "userId": 1,
       "id": 15
     }
-  ]
+  ],
+  "purchases":[]
 }
