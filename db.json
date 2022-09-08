@@ -35,7 +35,6 @@
       "category": "Tecnologia",
       "images": [
         "https://samsungbr.vtexassets.com/arquivos/ids/326514-1200-auto?width=1200&height=auto&aspect=true",
-        "https://shop.samsung.com.br/samsung-smart-tv-crystal-uhd-4k-bu8000-2022-1964/p?skuId=2756",
         "https://samsungbr.vtexassets.com/arquivos/ids/326510-1200-auto?width=1200&height=auto&aspect=true"
       ],
       "id": 1
@@ -236,6 +235,111 @@
       ],
       "userId": 1,
       "id": 15
+    },
+    {
+      "brand": " Wap Atacama",
+      "model": "Smart 2200",
+      "currentPrice": "447",
+      "color": "amarela",
+      "description": "Lavadora de alta pressão Wap Atacama Smart 2200 amarela e preta com 1500psi de pressão máxima 127V",
+      "category": "Limpeza",
+      "quantity": "100",
+      "warranty": "6 Meses",
+      "promotion": true,
+      "lastPrice": "503",
+      "images": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_904242-MLA40640215985_022020-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_751499-MLA40640215992_022020-F.webp"
+      ],
+      "userId": 1,
+      "id": 16
+    },
+    {
+      "brand": "Black+Decker",
+      "model": "G720",
+      "currentPrice": "239",
+      "color": "Laranja",
+      "description": "Esmerilhadeira angular Black+Decker G720 de 60 Hz laranja 820 W 220 V + acessórios",
+      "category": "Ferramentas",
+      "quantity": "1560",
+      "warranty": "1 Ano",
+      "promotion": false,
+      "images": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_990014-MLA42148915111_062020-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_628529-MLA42148121764_062020-O.webp"
+      ],
+      "userId": 1,
+      "id": 17
+    },
+    {
+      "brand": "Black+Decker",
+      "model": "TM500",
+      "currentPrice": "158",
+      "color": "Laranja",
+      "description": "radeira martelete elétrica de 10mm Black+Decker TM500 500W + acessório 220V 60Hz",
+      "category": "Ferramentas",
+      "quantity": "2430",
+      "warranty": "2 Anos",
+      "promotion": false,
+      "images": [
+        "https://http2.mlstatic.com/D_NQ_NP_787992-MLA40819548155_022020-O.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_669408-MLA40819548156_022020-O.webp"
+      ],
+      "userId": 1,
+      "id": 18
+    },
+    {
+      "brand": " Scotch-Brite",
+      "model": "Limpeza Pesada",
+      "currentPrice": "6",
+      "color": "Amarela",
+      "description": "Esponja Scotch-Brite Limpeza Pesada amarelo pacote x 4\n",
+      "category": "Limpeza",
+      "quantity": "3",
+      "warranty": "6 Meses",
+      "promotion": false,
+      "images": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_850138-MLA45880657365_052021-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_749492-MLA45880582806_052021-F.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_2X_843401-MLA45880699170_052021-F.webp"
+      ],
+      "userId": 1,
+      "id": 19
+    },
+    {
+      "brand": "Finish",
+      "model": "Advanced Power",
+      "currentPrice": "49",
+      "color": "Branco",
+      "description": "Detergente para lava-louças Finish Advanced Power Powder em pó em pote 1 kg",
+      "category": "Limpeza",
+      "quantity": "1",
+      "warranty": "6 Meses",
+      "promotion": false,
+      "images": [
+        "https://http2.mlstatic.com/D_NQ_NP_2X_985210-MLA44413967101_122020-F.webp"
+      ],
+      "userId": 1,
+      "id": 20
+    },
+    {
+      "brand": "Super Tork",
+      "model": "KAB 150 Micro BV",
+      "currentPrice": "542",
+      "color": "Amarelo/Preto",
+      "description": "Máquina de solda inverter Super Tork KAB 150 Micro BV amarela e preta 50Hz/60Hz 127V/220V",
+      "category": "Ferramentas",
+      "quantity": "250",
+      "warranty": "1 Ano",
+      "promotion": false,
+      "images": [
+        "https://http2.mlstatic.com/D_NQ_NP_937385-MLA50711331288_072022-O.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_765594-MLA50711304384_072022-O.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_732907-MLA50711331289_072022-O.webp",
+        "https://http2.mlstatic.com/D_NQ_NP_732988-MLA50711304385_072022-O.webp"
+      ],
+      "userId": 1,
+      "id": 21
     }
   ],
   "purchases":[]
